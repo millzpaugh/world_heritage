@@ -26,3 +26,34 @@ footer{
 	clear:both;
 	color:#BBB;
 }
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding:0;
+}
+
+h1{
+	font-size:3em;
+	font-weight:normal;
+}
+
+h2{
+	font-size:2em;
+	color:black;
+	font-weight:normal;
+}
+
+h2 a{
+	color:inherit;
+}
+
+h2 a:hover{
+	color:#D00;
+}
+
+h3{
+	font-size:2em;
+	color:#CCC;
+	margin:0;
+	padding:0;
+}
