@@ -63,3 +63,14 @@ a{
     color: #D00;
     -webkit-transition: all 300ms;
 }
+
+img{
+    display: block;
+    margin: 10px 0;
+    min-width: 85%
+}
+
+p{
+    margin: 1.5em
+    padding:0;
+}
