@@ -9,3 +9,20 @@ body{
 	width:60em;
 	border-left:6px solid #DDD;
 }
+
+#main{
+	float:left;
+	width:66%;
+}
+
+#sidebar{
+	float:right;
+	width:29%;
+	margin-top:6em;
+	color:#888;
+}
+
+footer{
+	clear:both;
+	color:#BBB;
+}
