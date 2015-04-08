@@ -57,3 +57,9 @@ h2 a:hover{
     margin:0;
     padding:0;
 }
+
+a{
+    text-decoration: none;
+    color: #D00;
+    -webkit-transition: all 300ms;
+}
